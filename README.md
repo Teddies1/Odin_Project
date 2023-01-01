@@ -1,3 +1,3 @@
 # git_test
-Demo repo for Odin project
-Hello Odin!
+demo repo for odin project
+hello odin!
